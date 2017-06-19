@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name = "StarIOPod"
-  s.version = "1.0"
+  s.version = "5.3.0"
   s.summary = "Cocoapod based on Star IO (unofficial)"
   s.homepage = "https://github.com/snaptee/StarIOPod"
   s.license = "MIT"
