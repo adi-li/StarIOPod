@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version = "5.3.0"
   s.summary = "Cocoapod based on Star IO (unofficial)"
   s.homepage = "https://github.com/adi-li/StarIOPod"
-  s.license = "MIT"
+  s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.author = { "Adi Li" => "ctlihk@live.hk" }
   s.platform = :ios, "7.0"
   s.source = { :http => "https://github.com/adi-li/StarIOPod/releases/download/v#{s.version}/stario.tar.gz" }
